@@ -1,0 +1,8 @@
+
+*.csv
+*.meta
+*.index
+*.data-00001-of-00002
+*.caffemodel
+*.prototxt
+*.mat
