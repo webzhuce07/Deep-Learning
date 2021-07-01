@@ -6,3 +6,7 @@
 *.caffemodel
 *.prototxt
 *.mat
+*.xml
+*.pyc
+*.xml
+*.xml
